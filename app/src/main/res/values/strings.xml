@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Nombre">Oscar Miguel Tepos Cano</string>
+    <string name="Grupo">7T11</string>
+    <string name="Matricula">167010019</string>
+    <string name="Carrera">iTics</string>
+    <string name="Docente">Victor Hugo de la O</string>
+</resources>
